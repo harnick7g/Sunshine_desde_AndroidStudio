@@ -37,6 +37,7 @@ import java.util.List;
 /**
  * A placeholder fragment containing a simple view.
  */
+//cambios para push
 public class MainActivityFragment extends Fragment {
 
     private ArrayAdapter<String> mForecastAdapter;
