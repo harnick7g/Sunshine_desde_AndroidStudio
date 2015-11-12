@@ -37,7 +37,8 @@ import java.util.List;
 /**
  * A placeholder fragment containing a simple view.
  */
-//cambios para push
+//modificacion para git 2
+
 public class MainActivityFragment extends Fragment {
 
     private ArrayAdapter<String> mForecastAdapter;
